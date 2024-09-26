@@ -1,4 +1,4 @@
-Impor classes from NewPost() {
+Import classes from NewPost() {
 
 function changeBodyHandler(event)
 console. log (event. target. value) ;
